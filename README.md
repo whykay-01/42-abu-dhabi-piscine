@@ -24,8 +24,14 @@ If you are not a participant of the École 42 Abu Dhabi Piscine, you are welcome
 
 This repository is open to contributions from the École 42 Abu Dhabi community. If you notice any errors or have suggestions for improving the content, please feel free to open an issue or submit a pull request.
 
+## Disclaimer
+
+This repository contains the code I wrote during my time at École 42 Abu Dhabi. I just want to publish this code because I believe that it might be useful for anyone who is interested in the programming experience École 42 Abu Dhabi has to offer. The content might be outdated.
+
 ## Conclusion
 
 We hope that you find this repository helpful and informative. If you have any questions or feedback, please do not hesitate to reach out to us.
 
 Happy coding!
+
+
